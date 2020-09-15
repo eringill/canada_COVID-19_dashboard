@@ -16,7 +16,7 @@ The dashboard downloads data on a daily basis from [Canada's Health Infobase]("h
 
 Required Libraries
 ------------------
-You don't need any libraries installed to run the binder from the link above. If you want to run file on your own computer, you'll need to install:
+You don't need any libraries installed to run the binder from the link above. If you want to run the notebook on your own computer, you'll need to install:
 * python
 * pandas
 * bokeh
